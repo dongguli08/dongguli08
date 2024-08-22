@@ -12,6 +12,7 @@
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongguli08&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
 
+ 
   <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-007396?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
@@ -19,6 +20,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
 </p>
+
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <a href="https://www.instagram.com/dongg_uli/">
