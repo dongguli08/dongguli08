@@ -3,8 +3,7 @@
 
 - 🔭 저는 백앤드를 공부하고 있는 대덕소프트웨어마이스터고 학생 입니다.
 - 🌱 즐거움을 잃지 않으면서 공부하기 위해 항상 노력합니다.
-
-
+- 저의 블로그 링크 입니다 (https://velog.io/@donggun1124/posts)
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
@@ -29,6 +28,6 @@
 
 
 
-https://velog.io/@donggun1124/posts
+
 
  
