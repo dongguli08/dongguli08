@@ -24,6 +24,11 @@
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=dongguli08&show_icons=true&theme=holi" width = "50%" height="130%" />
 </div>
 
+
+
+
+
+
 https://velog.io/@donggun1124/posts
 
  
